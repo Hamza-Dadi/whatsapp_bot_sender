@@ -1,0 +1,14 @@
+# Données personnelles - NE PAS PUBLIER
+numeros.txt
+deja_envoyes.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+
+# OS
+.DS_Store
+Thumbs.db
